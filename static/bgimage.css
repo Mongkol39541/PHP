@@ -1,0 +1,14 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+        "Segoe UI Symbol";
+    background-image: url('my-hero-academia-5966057_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.dark-overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+}
